@@ -3,6 +3,6 @@
 BEGIN;
 
 -- XXX Add DDLs here.
-   DROP TABLE Aluno;
+   DROP TABLE Escola.Aluno;
 
 COMMIT;
